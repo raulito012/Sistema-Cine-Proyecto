@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Sistema_Cine
+namespace Sistema_Cine.Login
 {
     public partial class Login : Form
     {

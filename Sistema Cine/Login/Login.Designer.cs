@@ -1,4 +1,4 @@
-﻿namespace Sistema_Cine
+﻿namespace Sistema_Cine.Login
 {
     partial class Login
     {
