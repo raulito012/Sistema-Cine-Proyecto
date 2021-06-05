@@ -16,7 +16,7 @@ namespace Sistema_Cine
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Sistema_Cine.Login());
+            Application.Run(new LoginForm());
         }
     }
 }
