@@ -39,10 +39,14 @@ namespace Sistema_Cine
 
         }
 
-        private void textBox2_MouseClick(object sender, MouseEventArgs e)
+        private void textBox2_Click(object sender, EventArgs e)
         {
-            textBox1.Clear();
+            textBox2.Clear();
+        }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+           
         }
     }
 }
