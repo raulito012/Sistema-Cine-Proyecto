@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace Sistema_Cine
 {
-    public partial class DashboardAdmin : Form
+    public partial class Dashb : Form
     {
-        public DashboardAdmin()
+        public Dashb()
         {
             InitializeComponent();
         }
 
-        private void DashboardAdmin_Load(object sender, EventArgs e)
+        private void Dashb_Load(object sender, EventArgs e)
         {
 
         }

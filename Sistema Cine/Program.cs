@@ -16,7 +16,8 @@ namespace Sistema_Cine
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new DashboardAdm());
+            Application.Run(new DashboardAdmin());
         }
     }
 }
+                          
