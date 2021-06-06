@@ -1,4 +1,4 @@
-﻿namespace Sistema_Cine.DashboardAdm
+﻿namespace Sistema_Cine
 {
     partial class DashboardAdmin
     {
@@ -30,7 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DashboardAdmin));
             this.panel1 = new System.Windows.Forms.Panel();
-            this.bunifuGradientPanel1 = new Bunifu.Framework.UI.BunifuGradientPanel();
+            bunifuGradientPanel1 = new Bunifu.Framework.UI.BunifuGradientPanel();
             this.SuspendLayout();
             // 
             // panel1

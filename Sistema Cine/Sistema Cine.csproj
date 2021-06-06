@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bunifu\Framework.cs" />
     <Compile Include="Dashb.cs">
       <SubType>Form</SubType>
     </Compile>
