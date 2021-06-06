@@ -48,5 +48,10 @@ namespace Sistema_Cine
         {
            
         }
+
+        private void LoginForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

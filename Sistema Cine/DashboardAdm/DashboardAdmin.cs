@@ -16,5 +16,10 @@ namespace Sistema_Cine.DashboardAdm
         {
             InitializeComponent();
         }
+
+        private void DashboardAdmin_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
